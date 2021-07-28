@@ -3,11 +3,11 @@ Analysis of the results of the second round of the Peruvian presidential electio
 
 Elections are facing higher scrutiny as smartphones and social media make it easier to disseminate information in real-time. The challenge for the electoral process is that greater dissemination can be, inadvertently or not, biased or not factual. Data Science can provide governments with statistical tools to improve data collection, processing, tabulating, and validation of the results. This, in turn, can provide higher transparency, expedience, and confidence in the results.
 
-In this project, I will apply three methodologies to explore the results of the recent Peruvian presidential election. The second round took place on June 6th, 2021. One of the candidates, Keiko Fujimori has decried foul-play arising from less-than-expected results in certain regions, especially those where she did not have representatives at the polling stations. The Peruvian electoral process uses paper ballots. Ballots are discarded the same day after results are tabulated at the polling station. The poll workers submit an official handwritten ballot summary sheet to ONPE, the elections bureau. Summary sheets are signed by the three randomly assigned poll workers and a representative from each party.
+In this project, I apply three methodologies to explore the results of the recent Peruvian presidential election. The second round took place on June 6th, 2021. The Peruvian electoral process uses paper ballots. Ballots are discarded the same day after results are tabulated at the polling station. The poll workers submit an official handwritten ballot summary sheet to ONPE, the elections bureau. Summary sheets are signed by the three randomly assigned poll workers and a representative from each party.  One of the candidates, Keiko Fujimori decried foul-play arising from less-than-expected results in certain regions, especially those where she did not have representatives at the polling stations. 
 
-The project will use like linear regression, decision tree regressor and Benford's law to highlight potential patterns arising from the data. The results of the analysis may provide recommendations for improving the transaparency of the results of the election to the public.
+The project uses linear regression, decision tree regressor and Benford's law to highlight potential patterns arising from the data. The results of the analysis may provide recommendations for improving the transaparency of the results of the election to the public.
 
-The project should be viewed in this sequence, with the Jupyter Notebooks coming first and Tableau last. 
+The project should be viewed in the following sequence: 
 
 # Jupyter Notebooks: 
 •	Capstone – EDA : data wrangling and feature engineering to prepare data for modelling  
@@ -18,7 +18,7 @@ The project should be viewed in this sequence, with the Jupyter Notebooks coming
 # Tableu file: 
 •	Tableau – Capstone Geoanalysis: shows patterns of outlier votes for both candidates by  State. 
 
-Jupyter notebooks and Tableau file are inside notebook folder. 
+Jupyter notebooks and Tableau file are inside the notebook folder. 
 
 # CSV files
 To use with Capstone EDA
