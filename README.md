@@ -18,6 +18,8 @@ The project should be viewed in this sequence, with the Jupyter Notebooks coming
 # Tableu file: 
 •	Tableau – Capstone Geoanalysis: shows patterns of outlier votes for both candidates by  State. 
 
+Jupyter notebooks and Tableau file are inside notebook folder. 
+
 # CSV files
 To use with Capstone EDA
 •	first_round.csv: original Spanish version of first round election results pre-EDA
