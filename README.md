@@ -32,6 +32,7 @@ Jupyter notebooks and Tableau file are inside the notebook folder.
 •	second_round.csv: original Spanish version of second round election results pre-EDA
 
 **To use with Capstone Regression Analysis and Capstone – Decision Tree Analysis**
+
 •	merged_reg.csv: clean post-EDA file with valid data for both first and second round. It is also an output of running the EDA workbook.
 
 **To use with Capstone - Benford’s Law**
