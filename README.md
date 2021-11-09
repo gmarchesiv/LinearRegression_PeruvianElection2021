@@ -27,15 +27,17 @@ Jupyter notebooks and Tableau file are inside the notebook folder.
 
 ## CSV files 
 **To use with Capstone EDA**
-
 •	first_round.csv: original Spanish version of first round election results pre-EDA
+
 •	second_round.csv: original Spanish version of second round election results pre-EDA
 
 **To use with Capstone Regression Analysis and Capstone – Decision Tree Analysis**
 •	merged_reg.csv: clean post-EDA file with valid data for both first and second round. It is also an output of running the EDA workbook.
 
 **To use with Capstone - Benford’s Law**
+
 •	first_round_clean.csv: post_EDA valid first round data (also an output of running the EDA workbook)
+
 •	second_round_clean.csv: post_EDA valid first round data (also an output of running the EDA workbook)
 
 **To use with Tableau – Capstone Geoanalysis**
