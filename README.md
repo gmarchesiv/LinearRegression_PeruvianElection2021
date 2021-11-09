@@ -11,7 +11,7 @@ In this project, I apply three methodologies to explore the results of the elect
 
 The project should be viewed in the following sequence: 
 
-## Jupyter Notebooks: 
+## Jupyter Notebooks 
 •	Capstone – EDA : data wrangling and feature engineering to prepare data for modelling  
 
 •	Capstone – Regression Analysis: first modelling workbook using linear regression
@@ -20,7 +20,7 @@ The project should be viewed in the following sequence:
 
 •	Capstone – Benford’s Law: statistical analysis of last digit of vote count as an additional check about the fairness of the election process  
 
-## Tableu file: 
+## Tableu file
 •	Tableau – Capstone Geoanalysis: shows patterns of outlier votes for both candidates by  State. 
 
 Jupyter notebooks and Tableau file are inside the notebook folder. 
@@ -43,5 +43,5 @@ Jupyter notebooks and Tableau file are inside the notebook folder.
 
 All csv files are inside DatabasesElections.zip
 
-# PDF file: 
+# PDF file 
 Report Captsone – Giancarlo Marches.pdf: the summary of the project
