@@ -27,6 +27,7 @@ Jupyter notebooks and Tableau file are inside the notebook folder.
 
 ## CSV files 
 **To use with Capstone EDA**
+
 •	first_round.csv: original Spanish version of first round election results pre-EDA
 
 •	second_round.csv: original Spanish version of second round election results pre-EDA
