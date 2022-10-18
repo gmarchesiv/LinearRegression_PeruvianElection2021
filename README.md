@@ -48,4 +48,5 @@ Jupyter notebooks and Tableau file are inside the notebook folder.
 All csv files are inside DatabasesElections.zip
 
 ## PDF file 
-Report Captsone – Giancarlo Marches.pdf: the summary of the project
+Report Captsone – Giancarlo Marches.pdf: Written summary of the project
+Final Presentation - Giancarlo Marchesi.pdf: Powertpoint presentation of th project
